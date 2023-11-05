@@ -1,0 +1,19 @@
+{
+    "name": "test/composerea",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "license": "Apache",
+    "autoload": {
+        "psr-4": {
+            "Test\\Composerea\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wang"
+        }
+    ],
+    "minimum-stability": "dev"
+}
