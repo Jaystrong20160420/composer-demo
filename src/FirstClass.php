@@ -1,5 +1,5 @@
 <?php
-namespace Test\Composerea;
+namespace Wangzj2023Test\Composerea;
 
 class FirstClass
 {

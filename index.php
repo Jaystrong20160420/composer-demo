@@ -1,4 +1,4 @@
 <?php
 require 'vendor/autoload.php';
 
-new \Test\Composerea\FirstClass();
+//new \Wangzj2023Test\Composerea\FirstClass();
